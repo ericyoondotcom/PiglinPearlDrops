@@ -80,7 +80,7 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 40,
+          "weight": 50,
           "functions": [
             {
               "function": "minecraft:set_count",
